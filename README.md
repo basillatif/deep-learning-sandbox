@@ -1,7 +1,7 @@
 # Deep Learning Algorithms - 2024
 
 ## Implementation of deep learning algorithms
-#### List of Algorithms to Add
+#### List of Algorithms to Add (Prompt: What are the Top 3 Deep Learning Algorithms that can be added to a GitHub repository to study deep learning?)
 1. Convolutional Neural Networks (CNNs)
 Use Case: Image classification, object detection, and image segmentation.
 Implementation:

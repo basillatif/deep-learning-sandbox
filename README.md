@@ -1,5 +1,4 @@
 # Deep Learning Algorithms - 2024
 
 ## Implementation of deep learning algorithms
-#### List of Algorithms to Implement & Business Applications
-
+#### List of Algorithms to Add

@@ -2,6 +2,7 @@ import numpy as np
 from PIL import Image
 import matplotlib.pyplot as plt
 
+
 def load_image(image_path):
     """Load an image and convert it to grayscale numpy array."""
     img = Image.open(image_path).convert('L')

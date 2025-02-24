@@ -36,7 +36,7 @@ Copy and paste the provided Python code into a new file named `facenet_compariso
 ### 2. Run the Script
 Execute the script from the terminal (ensure the virtual environment is active):
 ```sh
-python test.py
+python facenet_comparison.py
 ```
 
 The script will display visual outputs and print similarity scores in the command-line output.

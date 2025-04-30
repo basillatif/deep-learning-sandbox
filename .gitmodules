@@ -1,0 +1,3 @@
+[submodule "picotron"]
+	path = picotron
+	url = https://github.com/huggingface/picotron
